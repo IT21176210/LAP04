@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LAP04</string>
+    <string name="edtName">Enter Name</string>
 </resources>
